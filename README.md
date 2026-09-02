@@ -1,13 +1,14 @@
 # Jenika – Corporate Design
 
-Stand: 23.08.2026
+Stand: 31.08.2026 — freigegeben ist Version 2.0.
 
 ## Manual
 
 | Datei | Inhalt |
 | --- | --- |
-| `Jenika-Corporate-Design-Manual-v1.0.pdf` | Das freigegebene Manual, Version 1.0, 38 Seiten, A4. |
-| `Jenika-Corporate-Design-Manual-v1.0.html` | Dieselbe Fassung als HTML, offline lauffähig. |
+| `Jenika-Corporate-Design-Manual-v2.0.pdf` | Das freigegebene Manual, Version 2.0, 40 Seiten, A4. |
+| `Jenika-Corporate-Design-Manual-v2.0.html` | Dieselbe Fassung als HTML, offline lauffähig. |
+| `Jenika-Corporate-Design-Manual-v1.0.pdf` · `.html` | Vorherige Fassung, 38 Seiten, archiviert. |
 | `Jenika-Corporate-Design-Manual.html` | Immer die aktuelle Fassung, offline lauffähig. |
 | `Jenika-Praesentationsvorlage-Preview.html` | Vorschau der Folienlayouts im Browser. |
 
